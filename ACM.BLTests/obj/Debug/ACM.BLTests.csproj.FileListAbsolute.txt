@@ -1,0 +1,10 @@
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\bin\Debug\ACM.BLTests.dll
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\bin\Debug\ACM.BLTests.pdb
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\bin\Debug\ACM.BL.dll
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\bin\Debug\Core.Common.dll
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\bin\Debug\ACM.BL.pdb
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\bin\Debug\Core.Common.pdb
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\obj\Debug\ACM.BLTests.csprojResolveAssemblyReference.cache
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\obj\Debug\ACM.BLTests.dll
+C:\Projects\AcmeCustomerManagement\ACM.BLTests\obj\Debug\ACM.BLTests.pdb

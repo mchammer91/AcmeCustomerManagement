@@ -1,0 +1,14 @@
+C:\Projects\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.exe.config
+C:\Projects\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csprojResolveAssemblyReference.cache
+C:\Projects\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.OrderWin.resources
+C:\Projects\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.PedometerWin.resources
+C:\Projects\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.Properties.Resources.resources
+C:\Projects\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csproj.GenerateResource.Cache
+C:\Projects\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.exe
+C:\Projects\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.pdb
+C:\Projects\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.BL.dll
+C:\Projects\AcmeCustomerManagement\ACM.Win\bin\Debug\Core.Common.dll
+C:\Projects\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.BL.pdb
+C:\Projects\AcmeCustomerManagement\ACM.Win\bin\Debug\Core.Common.pdb
+C:\Projects\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.exe
+C:\Projects\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.pdb

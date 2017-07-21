@@ -1,0 +1,7 @@
+C:\Projects\AcmeCustomerManagement\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Projects\AcmeCustomerManagement\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Projects\AcmeCustomerManagement\ACM.BL\bin\Debug\Core.Common.dll
+C:\Projects\AcmeCustomerManagement\ACM.BL\bin\Debug\Core.Common.pdb
+C:\Projects\AcmeCustomerManagement\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Projects\AcmeCustomerManagement\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Projects\AcmeCustomerManagement\ACM.BL\obj\Debug\ACM.BL.pdb
